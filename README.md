@@ -1,1 +1,1 @@
-#thinkphp5.0 框架网站
+#thinkphp5.0 框架
